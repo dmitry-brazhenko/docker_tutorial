@@ -18,7 +18,7 @@ Save docker image (first_docker) to file:
  docker save first_docker > first_docker.tar
 ```
 
-Load docker image (first_docker) from file. Already in repo:
+Load and run docker image (first_docker) from file:
 ```shell
 docker load < first_docker.tar
 docker run first_docker
