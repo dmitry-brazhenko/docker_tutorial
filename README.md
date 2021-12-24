@@ -1,4 +1,11 @@
 # Docker tutorial
+
+## Download resources
+```shell
+git clone https://github.com/dmitry-brazhenko/docker_tutorial.git
+cd docker_tutorial
+```
+
 ## Task 1
 
 ```shell
